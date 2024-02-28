@@ -1,0 +1,32 @@
+.numbers{
+    width: 88px;
+    height: 90px;
+    border: none;
+    cursor: pointer;
+    border-top: 1px solid #3333;
+   border-right: 1px solid #3333 ;
+   font-size: 30px;
+}
+.numbers:hover{
+    color: rgb(5, 5, 250);
+}
+.operator{
+    width: 88px;
+    height: 90px;
+    border: none;
+    cursor: pointer;
+    font-size: 30px;
+    background-color: orange;
+    color: #FFFF;
+    border-top: 1px solid #3333;
+}
+/* .numbersequlet{
+    width: 88px;
+    height: 90px;
+    border: none;
+    cursor: pointer;
+    border-top: 1px solid #3333;
+   border-right: 1px solid #3333 ;
+   font-size: 30px;  
+   background-color: rgb(114, 114, 230);
+} */

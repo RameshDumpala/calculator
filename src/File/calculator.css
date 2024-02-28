@@ -1,0 +1,12 @@
+.input {
+  width: 350px;
+  height: 70px;
+  border: groove;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border: none;
+  background-color: #333333;
+  color: #FFFF;
+  font-size: 30px;
+  text-align: end;
+}
